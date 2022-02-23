@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands tears and lamentation for her lost friend peace, and her comfort for the continuance of trvth, or, Truth and peace justly pleaded for, and truly petitioned for by him that is neither factious nor self-affected, but onely desires the prosperity of his country : and that peace and the gospel may be joyned together, without which we shall never expect to live in unity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38439</idno>
+            <idno type="STC">Wing E3056</idno>
+            <idno type="STC">ESTC R40558</idno>
+            <idno type="EEBO-CITATION">19366178</idno>
+            <idno type="OCLC">ocm 19366178</idno>
+            <idno type="VID">108780</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108780)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1668:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands tears and lamentation for her lost friend peace, and her comfort for the continuance of trvth, or, Truth and peace justly pleaded for, and truly petitioned for by him that is neither factious nor self-affected, but onely desires the prosperity of his country : and that peace and the gospel may be joyned together, without which we shall never expect to live in unity.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108780:1" rendition="simple:additions"/>
+            <p>ENGLANDS Tears and Lamentation For her loſt Friend PEACE, AND Her comfort for the continuance of TRVTH:</p>
+            <p>OR Truth and Peace juſtly pleaded for, and truly Petitioned for, by him that is neither Factious nor ſelf-affected; but onely de<g ref="char:EOLhyphen"/>ſires the proſperity of his Country, and that Peace and the Goſpel may be joyned together, without which we ſhall never expect to live in Unity.</p>
+            <p>London, Printed for <hi>William Ley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108780:2"/>
+            <head>A Moderate Plea for Truth and Peace, or Truth and Peace reconciled.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ere I indewed with the demure and ſeraphi<g ref="char:EOLhyphen"/>call patience of Solomon, or inriched with the gliſtering Rethorique of Ariſtotle, then might I hope to perſwade this depraved di<g ref="char:EOLhyphen"/>ſſipated age, to lay aſide there ſtudy of par<g ref="char:EOLhyphen"/>ties to part all, and ſweetly inſinuate per<g ref="char:EOLhyphen"/>ſwaſive reaſons, that might win the ſpirits of this irratio<g ref="char:EOLhyphen"/>nall rage, ſeriouſly to lay their hands on their hearts, be<g ref="char:EOLhyphen"/>fore the dayes come wherein we may all ſay we have no pleaſure in them, and weigh in deepeſt Judgement the direfull judgements that begin to pain and pinch us all, and look upon them not only as the fruits of pernicious counſell and Counſellors, but the black web of all our weavings, the ſad preſages of <hi>Jeruſalems, Germanies, Ire<g ref="char:EOLhyphen"/>lands</hi> line drawing over <hi>England,</hi> let every one mend one, each party quarrell with their own perſons, and every man look into his own boſome, and he ſhall there ſee and read the tokens of an angry God: <hi>England</hi> hath abuſed the height of ſweeteſt and deareſt mercies, and in ſtead of be<g ref="char:EOLhyphen"/>ing alured and won to ſerve that God who hath been the Donor, <hi>Jeſuram</hi> hath waxed fat and kicked, and in the middſt of our mercies we have forgotten the God of our mercies, and therefore (as <hi>Chriſoſtome</hi> ſadly and ſeriouſly) it is juſt with God, that we that would not remember our God nor our ſelves, ſhould be plagued in forgetting both, and now <hi>Ephram is againſt Manaſſes and both againſt Judah,</hi> and moſt againſt God, O how happy ſhould I think my ſelf if I might write a word in due ſeaſon, and all wou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d look on it as apples of gold in pictures of ſilver, that while ſome are earneſt Proctors for a pernicious peace
+<pb facs="tcp:108780:2"/>without Chriſtian tearms, in a word moſt neglect truth under pretended zeal for peace, and many are poſeſſed with zeal without diſcretion, and the generall ſeek neither with chriſtian moderation, Oh times! Oh manners! what ſtrange times are we falen into, that none or few are found really to be <hi>fillii veritatis &amp; alum in pacis,</hi> lovers of truth &amp; peace: it is a Paradox in our age to love both, dreadfull muſt be our condition and bitterneſſe in the end, if there be found never a <hi>Moſes</hi> that hath a fire of holy zeal, to re<g ref="char:EOLhyphen"/>buke and correct the people for Idolatry, and a meek mind to pray and ſeek their peace. Is not every man that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wor<g ref="char:EOLhyphen"/>thy the name of a Chriſtian reſolved into grief, to ſee the winters diſtemper of our age, which is ſuch, that the love of many if not moſt is grown cold to truth and peace, truth much obſcured, depraved, blemiſhed, prejudic'd, undermined, diſcountenanc'd, ſurpriſed: peace very cra<g ref="char:EOLhyphen"/>zie and ſadly ſhaken, not only with rumors of wars and preparation for war, ſtudy of ſides and parties to pierce us all, not only great diuiſion of thoughts, pertinacy in opi<g ref="char:EOLhyphen"/>nions breeding diſaffections, and now diſaffections dread<g ref="char:EOLhyphen"/>fully flaming into open contentions and hoſtilities, ſo far as from the ſtrife of pens and tongues, writing and diſpu<g ref="char:EOLhyphen"/>ting, we are come to the terror of war, each party conten<g ref="char:EOLhyphen"/>ding who ſhall obtain that—wofull ſelf deſtroying, w<hi rend="sup">ch</hi> without God work wonders, will make none but death Victor I ſay, but let theſe taſt but a little of the miſeries of war, they would know it is there, as <hi>Socrates</hi> ſaid it was in marriage, applying the ſimilitude of the fiſhes, they that are without the net would fain be in, but they that are within would more fain be out, they that finding ſome diſcontent in peace called for war to eaſe them, would do as the old man did in the fable, who being heavy laden, threw his burden down and called for death to take him out of the world, but when death appeared ready to ſa<g ref="char:EOLhyphen"/>tisfie
+<pb facs="tcp:108780:3"/>his deſire, to put it off, deſired him to help him up with his burden, as though he had called him for no<g ref="char:EOLhyphen"/>thing elſe.</p>
+            <p>Oh bleſſed peace thou crowneſt thy yeere with thy goodneſſe, and thy paths drop fatneſſe, and bleſſed haſt thou bin ô England, and our eyes might have been bleſ<g ref="char:EOLhyphen"/>ſed in beholding thee in the triumphs of peace, where we have ſeen plenty triumphing over famine in the country, riches triumphing over poverty in the Citie, learning tri<g ref="char:EOLhyphen"/>umphing over ignorance in the Univerſity, Juſtice almoſt triumphing over vice in the Kingdon, and the King tri<g ref="char:EOLhyphen"/>umphing over danger in the loyalty of his Subjects: theſe are the triumphs of peace; and the God of peace reſtore and continue this peace, that the fury of war may never turn this Paradiſe into a Wilderneſſe, nor make <hi>England</hi> which hath been a Map of Majeſtie to other Nations, a Map of confuſion, and let us ſay, <hi>beati pacifici,</hi> after our Saviour, <hi>bleſſed are the peace-makers for they ſhall be called the Children of God,</hi> and let the bleſſing of our heavenly fa<g ref="char:EOLhyphen"/>ther crowne His Majeſties Royall head with gray hairs; the ſilver crown of age, let God create the fruits of the lips peace, let that pretious ointment which was richly ſhed upon the head of our high Prieſt Chriſt Jeſus, de<g ref="char:EOLhyphen"/>ſcend to the skirts of his cloathing, with an influence of like vertue, that as our Saviour healed the womans iſſue of blood, ſo he may ſtanch the bleeding wounds of Church and ſtate, that hath put it ſelf under his protection, and that his ſacred Majeſty may ſpeedily decline all pernici<g ref="char:EOLhyphen"/>ous counſells, and deliver into the hands of juſtice, all crafty <hi>Achitophells,</hi> that Prince and people may ſhout for joy, in ſeeing the nuptiall day of peace and truth, which hath as great a ſhare in both as the former truth being the foundation, peace the lovely ſtructure and building, the ſame Chriſt that ſaid <hi>bleſſed are the peace-makers,</hi> with the
+<pb facs="tcp:108780:3"/>ſame bleſſed mouth ſaid <hi>bleſſed are the pure in heart,</hi> which cannot be enjoyed without truth; though it be granted, which is as much as can be granted, that peace is the feli<g ref="char:EOLhyphen"/>city of the Saints of heaven, the glory of the bleſſed An<g ref="char:EOLhyphen"/>gells, the deſire of nations, the royalty of God himſelf, yet let wiſe men conſider, that without truth, theſe heights and the higheſt with reverence be it ſpoken, were but as ſounding braſſe and a tinckling Symboll; if peace be the felicity of the Saints, if truth were not in it would not it's beauty wither? it's ſilver become droſſe, and it's gold tin? ſay it be the glory of Angells, were that glory worth the having, if this ingredient were not in it: &amp; let the height of honor be ſet as a crown of incomparable gold, and preti<g ref="char:EOLhyphen"/>ous ſtones on its head, and let men men believe it is the royalty of God himſelf, yet without this let us cover our faces in ſpeaking being we are not: Truth is the moſt tran<g ref="char:EOLhyphen"/>ſcendent glory of the devine Majeſty, if we may ſay God is capable of degrees, all the glorious attributes of God receive there being from this, which if I ſpeak as it is, is no leſſe then God himſelf in his height of bleſſedneſſe, this truth is the increated light of the Intelectuall world, ſhining from God to Angels and men, and let mens hearts harp on this, that peace is the deſire of nations, what is peace without Truth? not peace but the ſhadow of peace enjoyed without truth loved, is to uſe <hi>So<g ref="char:EOLhyphen"/>lomons;</hi> phraſe like a jewell of pearl in in a ſwines ſnoat, and let me ſpeak and all England hear, had truth bleſſed truths fundamentalls at leaſt bin holily and thankfully re<g ref="char:EOLhyphen"/>ceived, peace had never departed, had truth been better welcome and more deſieed by all, peace had never taken it's leave ſo ſuddenly and ſadly, and the only way to have
+<pb facs="tcp:108780:4"/>peace reſtored in purity and perfection, is to purge our hearts, and then ſeek Gods peace, and if none this blood not of nation but of our nation purge us; then bleſſed ſhal we be that are in ſuch a caſe, ye happy that have the Lord fully and reconciledly for our God, and then the other I ſay of truth and peace as the author of both in another caſe, thoſe whom God hath joyned together let no man dare to put aſunder, as men naturally incline to follow that Petition with ardency, Lord ſend peace in our dayes, ſo let them with as much fervency and ſincerity, contend for that of <hi>Davids,</hi> that righteouſneſſe and peace may kiſſe each other, and let that heart, tongue and hand, ſinck, pe<g ref="char:EOLhyphen"/>riſh, and wither, that will not ſay <hi>Amen.</hi>
+            </p>
+            <p>Truth and peace like a loving couple, they ſeek the pre<g ref="char:EOLhyphen"/>ſervation of each others eſtate, and like <hi>Hypocrates</hi> twins they laugh together, and are like affected: ſurvey their ſweet congruity, and you will ſay as a lovely couple, it were ſin and pitty to part them, truth and peace being <hi>bona publica &amp; univerſalia,</hi>
+               <note place="margin">Docte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gau<g ref="char:EOLhyphen"/>den in his ſea<g ref="char:EOLhyphen"/>ſonable Ser<g ref="char:EOLhyphen"/>m n before the truely Honor<g ref="char:EOLhyphen"/>able Huoſe of Commons.</note> truth for the ſoul, peace for the body and ſtate, every one hath a ſhare and intereſt in the<g ref="char:cmbAbbrStroke">̄</g>, Prince, Peers, and people: Behold with judicious eyes, and weigh with judgement the vanity, folly, miſery, im<g ref="char:EOLhyphen"/>poſſibility of reall injoyning one without the other, pon<g ref="char:EOLhyphen"/>der, and ponder wiſely, meekly, moderately, ruminate with ſerious and ſaddeſt thoughts on this, all ye that neg<g ref="char:EOLhyphen"/>lect the fair opportunities of peace, and look upon it with a fooliſh diſdain like a coy dame on a loving ſutor, whom after ſhe hath ſlighted and neglected, would upon ſecond thoughts gladly imbrace with deareſt affections when too late, but other gueſts will ſoon be invited, nay come ry<g ref="char:EOLhyphen"/>ding on the wings of the wind; and peace will dwell with<g ref="char:EOLhyphen"/>in our wals and plenteouſneſſe in our palaces, therefore let not any ſons of <hi>Belial</hi> blow any longer the fire of con<g ref="char:EOLhyphen"/>tention, and in ſeeking their own ends, endeavour to end
+<pb facs="tcp:108780:4"/>all. Let not the Prince wage war raſhly, but remember the adviſe given to <hi>Auguſtus,</hi> to repeat all the letters of his Alphabet when he was angry before he do any thing, and our dread Soveraign ſhould do well to try all his let<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, all his learning, all his skill firſt, all his Counſell, before he ingage his Royall Perſon, loving and loyall Subjects, in an unnaturall war; and let him not proceed to war im<g ref="char:EOLhyphen"/>placably; <hi>Hercules</hi> club they ſay was made of Olive, an embleme of peace, and peace muſt there be deſired where war cannot be warranted, Oh that God would perſwade his Royall heart not to go to war, but as An dronicus pro<g ref="char:EOLhyphen"/>ceeded to the execution of juſtice with the ſaying of St. <hi>Paul,</hi> in his mouth and heart, <hi>non quod volo bonum facio, &amp;c.</hi> the good I would I do not, and the evill I would not that do I, and reſolve with our Saviour, if my right eye offend me and my people, I will pluck it out, and if my right hand offend juſtly, I will cut it off, better one or few I ac<g ref="char:EOLhyphen"/>count dear ſhould periſh then the whole body be inevita<g ref="char:EOLhyphen"/>bly loſt, and let our right <hi>Honorable</hi> Parliament ſay as they have often, ſo God may be glorified, the King truly ho<g ref="char:EOLhyphen"/>noured, <hi>Haman</hi> hanged, the people bleſſed in the injoy<g ref="char:EOLhyphen"/>ment of truth and peace, let our honour lye in the duſt, our eſtates waſt, our pleaſures and profits be known no more.</p>
+            <p>And let all men pray for King and Parliament, and that thoſe that God hath joyned together, thoſe may be accurſt that ere part aſunder, and let none ſinfully prefer an unwarrantable unjuſt peace, before a juſt war, leaſt the juſt God teach them better divinity by the rod of ſeveri<g ref="char:EOLhyphen"/>ty; all know God juſtified Iſraels war, with his Brother Benjamine, and commanded warr with Amalech; Warr in it ſelfe is an appeale to heaven by a ſword, when other wayes of Juſtice upon earth, either by witneſſe, oathes, or Leagues are made voyd, and invallid; and Religion is a
+<pb facs="tcp:108780:5"/>greater happineſſe then peace, Religion is juſt ſo much the beſt of bleſſings as God is the beſt of beings, a p;entifull table to feede the body without profitable diſcours to feede the minde, is little better then a manger, Iſrael had 3. crownes as <hi>Talmud</hi> obſerves, of the King, of the Prieſt, of the Law, but the crown of the Law was the chiefe of the three; in a word let peace and truth be in all mens lives and loves, truth as the roots, peace as the fruits, and ;et a;; deſire nothing more then that the ſonne of GOD may raigne, and that with and under the ſonne of GOD the King may command, and we as good ſubjects to the Chriſt and the King, may obay, ſo prayes he that loves truth and peace.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
